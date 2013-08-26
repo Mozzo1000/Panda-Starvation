@@ -1,6 +1,8 @@
-Hungry-Jacks-Adventure
+Panda Starvation
 ======================
 
-Hungry Jack's Adventure
+Panda Starvation
 
-A game made during the Mini-LD #41
+A game made with Flash Actionscript 3, Flixel and Flixel Power Tools during the Ludum Dare #27 Compo
+
+http://www.mozzo.host56.com to play the game...
